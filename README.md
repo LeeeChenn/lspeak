@@ -1,5 +1,4 @@
-# 🎧 听说 - 影子跟读播放器
-# 🎧 EchoEnglish – Shadowing Player
+
 
 用影子跟读提升你的英语听说能力，让英语学习变得更自然、高效。  
 Improve your English listening and speaking with shadowing. Make language learning more natural and efficient.

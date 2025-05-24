@@ -2,3 +2,5 @@ theme: minima
 title: 听说-影子跟读
 languages: ["en", "zh"]
 default_lang: "en"
+plugins:
+  - jekyll-polyglot
